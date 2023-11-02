@@ -1,0 +1,10 @@
+.bg-image {
+    background: url(/assets/muffinwallpaper.jpg);
+    background-repeat: no-repeat;
+    min-height: 290px;
+    background-size: cover;
+}
+
+.welcome-text {
+    color: whitesmoke;
+}
